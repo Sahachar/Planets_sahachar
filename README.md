@@ -1,3 +1,3 @@
 # Sahachar's planet exploration
-I visited some exoplantes
+I visited some exoplanets
 Here are some files
