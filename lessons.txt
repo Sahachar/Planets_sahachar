@@ -1,0 +1,5 @@
+Git init: sets up a folder as a git repository
+Git status: check status in our repository
+Git add: stages files (getting them in place to commit, or take a snapshot)
+Git commit: actually takes the snapshot of files, saves to version history. Always needs to be accompanied by a commit message (-m)
+https://swcarpentry.github.io/git-novice/07-github/index.html
